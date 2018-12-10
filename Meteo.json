@@ -1,0 +1,58 @@
+[
+{
+"Parameter": "Vapour pressure 2 m above ground; hourly mean",
+"Name": "Vapour pressure [hpa]",
+"Short name": "pva200h0",
+"Group": "humidity",
+"Granularity": "Hour",
+"Unit": "hectopascal"
+},
+{
+"Parameter": "Air temperature 2 m above ground; hourly mean",
+"Name": "Air temperature [°C]",
+"Short name": "tre200h0",
+"Group": "temperature",
+"Granularity": "Hour",
+"Unit": "degree Celsius"
+},
+{
+"Parameter": "Wind direction; hourly mean",
+"Name": "Wind direction [°]",
+"Short name": "dkl010h0",
+"Group": "wind",
+"Granularity": "Hour",
+"Unit": "degree"
+},
+{
+"Parameter": "Wind speed scalar; hourly mean",
+"Name": "Wind speed [m/s]",
+"Short name": "fkl010h0",
+"Group": "wind",
+"Granularity": "Hour",
+"Unit": "meter/second"
+},
+{
+"Parameter": "Global radiation; hourly mean",
+"Name": "Solar radiation [W/m^2]",
+"Short name": "gre000h0",
+"Group": "radiation",
+"Granularity": "Hour",
+"Unit": "watt/square meter"
+},
+{
+"Parameter": "Cloud cover; daily mean",
+"Name": "Cloud cover [%]",
+"Short name": "nto000d0",
+"Group": "visual observation",
+"Granularity": "Day",
+"Unit": "per cent"
+},
+{
+"Parameter": "Precipitation; hourly total",
+"Name": "Precipitation [mm]",
+"Short name": "rre150h0",
+"Group": "precipitation",
+"Granularity": "Hour",
+"Unit": "millimeter"
+}
+]
